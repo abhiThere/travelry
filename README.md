@@ -2,7 +2,7 @@
 
 🛫 Travelry
 
-A travel places website that presents spectacular travel destinations at a glance.
+A travel website that presents spectacular travel destinations at a glance.
 
 Travelry is a website that gives a bird's eye view on the world's most popular travel destinations.
 The landing page highlights fascinating travel destinations that one can visit.
