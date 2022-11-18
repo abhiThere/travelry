@@ -1,4 +1,4 @@
-# travelry-website
+# Travelry Website
 
 🛫 Travelry
 
