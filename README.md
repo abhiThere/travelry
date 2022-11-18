@@ -9,5 +9,5 @@ The landing page highlights fascinating travel destinations that one can visit.
 The places page displays a gallery of the most iconic travel places across the globe.
 Each place in the gallery consists of an image, a brief description and a link to explore its comprehensive travel guide.
 
-This website is developed using HTML and CSS. It provides a rich user interface for inquisitive travellers to embark on their next travel destination.
+This website is developed using HTML and CSS. It provides a rich user interface for inquisitive travellers to embark on their next travel journey.
 
