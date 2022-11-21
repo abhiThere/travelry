@@ -25,6 +25,7 @@ This website is developed using HTML and CSS. It provides a rich user interface 
 # Acknowledgements
 
 * [GitHub Pages](https://pages.github.com)
+* [favicon.io](https://favicon.io/)
 
 <!-- REFERENCE VARIABLES -->
 [html-shield]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
