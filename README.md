@@ -14,7 +14,7 @@ Each place in the gallery consists of an image, a brief description and a link t
 # Features
 
 * View the most visited travel destinations.
-* View image gallery of the most iconic travel places across the globe.
+* View an image gallery of the most iconic travel places across the globe.
 * Explore comprehensive travel guide of each place in the gallery.
 
 # Built With
