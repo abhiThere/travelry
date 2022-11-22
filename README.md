@@ -36,4 +36,3 @@ This website is developed using HTML and CSS. It provides a rich user interface 
 [html-url]: https://www.w3.org/html/
 [css-shield]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
 [css-url]: https://www.w3.org/Style/CSS/Overview.en.html
-
