@@ -20,6 +20,8 @@ Each place in the gallery consists of an image, a brief description and a link t
 # 📷 Screenshots
 
 ![Landing Page](https://user-images.githubusercontent.com/74660692/203374461-dd19660d-666e-4edc-b17a-ce16c0421381.png)
+
+
 ![Highlights](https://user-images.githubusercontent.com/74660692/203374509-61661389-4fb0-46cd-80c7-0e1afc90cad2.png)
 
 
