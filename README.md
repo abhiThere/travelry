@@ -32,7 +32,7 @@ Each place in the gallery consists of an image, a brief description and a link t
 
 # 👨‍💻 Built With
 
-This website is developed using HTML and CSS. It provides a rich user interface for inquisitive travellers to embark on their next travel journey.
+This website is developed using HTML and CSS. It provides a rich user interface for inquisitive travelers to embark on their next travel journey.
 
 * [![HTML][html-shield]][html-url]
 * [![CSS][css-shield]][css-url]
