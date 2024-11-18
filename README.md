@@ -1,6 +1,6 @@
 # 🛫 Travelry 
 
-A travel website that presents spectacular travel destinations at a glance.
+A travel website that showcases iconic travel destinations at a glance.
 
 The website is live at [Travelry](https://abhithere.github.io/travelry/)
 
